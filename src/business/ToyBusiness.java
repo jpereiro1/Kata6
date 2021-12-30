@@ -1,4 +1,4 @@
-package toys;
+package business;
 
 import toyproduct.Toy;
 

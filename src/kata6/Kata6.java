@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 import toyproduct.Toy;
-import toys.AsianToyBusiness;
-import toys.ToyBusiness;
+import branches.AsianToyBusiness;
+import business.ToyBusiness;
 
 
 public class Kata6 {
