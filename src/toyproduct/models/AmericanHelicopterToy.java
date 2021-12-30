@@ -9,6 +9,7 @@ public class AmericanHelicopterToy implements Toy{
     public AmericanHelicopterToy(Integer serialNumber) {
         this.serialNumber = serialNumber;
         this.type = "Helicopter";
+        
     }
     
     

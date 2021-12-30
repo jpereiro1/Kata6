@@ -9,6 +9,7 @@ public class AmericanCarToy implements Toy{
     public AmericanCarToy(Integer serialNumber) {
         this.serialNumber = serialNumber;
         this.type = "Car";
+        
     }
     
     
